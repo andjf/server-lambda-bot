@@ -1,5 +1,4 @@
-
-# Welcome to your CDK Python project!
+# AWS Lambda-Based Discord Bot for EC2 Control
 
 This project is set up like a standard Python project. The initialization
 process also creates a virtualenv within this project, stored under the `.venv`
